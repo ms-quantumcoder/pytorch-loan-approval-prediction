@@ -1,2 +1,21 @@
-# fraud-detection-neural-network
-Fraud Detection System using Feed Forward Neural Networks and PyTorch
+# Fraud Detection Neural Network
+
+Status: Planning Phase
+
+## Objective
+Build a neural network to classify financial transactions as fraudulent or legitimate.
+
+## Tech Stack
+- Python
+- PyTorch
+- Pandas
+- NumPy
+- Scikit-learn
+
+## Planned Features
+- Data preprocessing
+- Feature engineering
+- Neural network model
+- Training pipeline
+- Performance evaluation
+- Fraud prediction
